@@ -1,5 +1,7 @@
-<h1>Olá</h1>
-<h3>Cursando o 6º semestre em Ciência da Computação na faculdade Estácio de Sá e buscando a oportunidade de iniciar a carreira de desenvolvedor front-end </h3>
+<h1>Bem vindo</h1>
+
+<h3>Sobre</h3>
+<p>Cursando o 6º semestre em Ciência da Computação na faculdade Estácio de Sá e buscando a oportunidade de iniciar a carreira de desenvolvedor front-end</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=graywhite" alt="lucas stats github" />
 
