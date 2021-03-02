@@ -12,7 +12,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=lcsgauna" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=graywhite" alt="lucas stats github" />
 
 
 <a href="https://linkedin.com/in/lucasssamudio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasssamudio" height="30" width="40" />
