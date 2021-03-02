@@ -1,9 +1,3 @@
-<style>
-    h1, p{
-        color:#FFB000;
-    }
-</style>
-
 <h1>Olá</h1>
 <p>I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.</p>
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
