@@ -17,3 +17,4 @@
 <h3 align="center">Rede Social</h3>
 <p align="center"><a href="https://www.linkedin.com/in/lucassamudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="lucasssamudio" height="30" width="40" />
 </a></p>
+ 
