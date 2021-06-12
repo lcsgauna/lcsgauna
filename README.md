@@ -1,9 +1,10 @@
 <h1 align="center">Bem vindo 🤠👋</h1>
 
-<h2 align="center">Sobre</h3>
-<p>⚡ Cursando o 6º semestre em Ciência da Computação na faculdade Estácio de Sá de Campo Grande, Mato Grosso do Sul e buscando a oportunidade de iniciar a carreira de desenvolvedor front-end</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=graywhite" alt="lucas stats github" />
+<div>
+  <a href="https://github.com/lcsgauna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsgauna&layout=compact&langs_count=16&theme=graywhite" alt="Lucas Gauna stats Github"/>
+</div>
 
 <h3 align="center">Linguagens e Ferramentas:</h3>
 <p align="center"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
