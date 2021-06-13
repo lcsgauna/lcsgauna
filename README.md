@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo🤠</h1>
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/lcsgauna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsgauna&layout=compact&langs_count=16&theme=graywhite" alt="Lucas Gauna stats Github"/>
