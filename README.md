@@ -5,8 +5,7 @@ bio = {
   "name":    "Lucas Gauna Samudio",
   "age":     27,
   "work":    "Developer intern at Grupo Card",
-  "city":    "Campo Grande",
-  "state":   "Mato Grosso do Sul",
+  "living":  "Campo Grande, Mato Grosso do Sul",
   "country": "Brazil"
 }
 ```
