@@ -3,8 +3,8 @@
 ```javascript
 bio = {
   "name":    "Lucas Gauna Samudio",
-  "age":     27,
-  "work":    "Developer intern at Grupo Card",
+  "age":     28,
+  "work":    "Developer at Grupo Card",
   "living":  "Campo Grande, Mato Grosso do Sul",
   "country": "Brazil"
 }
