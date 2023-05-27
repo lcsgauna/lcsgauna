@@ -1,73 +1,8 @@
 <html>
   <head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    *{
-      font-family: 'Nunito', sans-serif;
-      background:#282a36;
-    }
-    h1{
-      color: #ffb86c	;
-      text-align:center;
-    }
-    h2{
-      color: #ffb86c;
-      padding-top:10px;
-    }
-    a{
-      color:#6272a4;
-    }
-    p{
-      text-align:justify;
-      padding:10px;
-      color:#f8f8f2;
-    }
-    .react{
-      color:#8be9fd;
-    }
-    .node{
-      color:#50fa7b;
-    }
-    .logo{
-      width:60px;
-      height:60px;
-      border-radius:10px;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      border:1px solid transparent;
-      transition:0.8s;
-    }
-    .logo:hover{
-      transition:0.8s;
-      border-radius:10px;
-      border:1px solid #8be9fd;
-    }
-    .stacks, .os, .dev-tools{
-      display:grid;
-      aling-items:center;
-      padding:10px;
-      gap:30px;
-    }
-    .stacks{
-      grid-template-columns: repeat(4,50px);
-    }
-    .os{
-      grid-template-columns: repeat(2,50px);
-    }
-    .dev-tools{
-      grid-template-columns: repeat(4,50px);
-    }
-    .stats{
-      transform:translate(42vw,-60vh)
-    }
-
-  </style>
   </head>
   <body>
-  <h1>Bem vindo🤠</h1>
+  <h1 aling="center">Bem vindo🤠</h1>
   <h2 class="mark">Sobre</h2>
   <p>Olá, me chamo Lucas tenho 28 anos moro em Campo Grande/MS sou estudante de Ciência da Computação na Estácio de Sá MS e atualmente trabalho como desenvolvedor fullstack júnior utilizando a stack <span class='react'>React</span> e <span class='node'>Node</span> </p>
   <h2>Stack</h2>
@@ -99,9 +34,6 @@
   </div>
   <div align='center'>
     <a href="https://www.linkedin.com/in/lcsgauna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  </div>
-  <div class='stats'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsgauna&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" alt="lcsgauna Github Stats "/>
   </div>
   </body>
 </html>
