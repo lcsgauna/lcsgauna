@@ -3,7 +3,6 @@
   </head>
   <body>
   <h1 aling="center">Bem vindo🤠</h1>
-  <h2 class="mark">Sobre</h2>
   <p>Olá, me chamo Lucas tenho 28 anos moro em Campo Grande/MS sou estudante de Ciência da Computação na Estácio de Sá MS e atualmente trabalho como desenvolvedor fullstack júnior utilizando a stack <span class='react'>React</span> e <span class='node'>Node</span> </p>
   <h2>Stack</h2>
   <div class='stacks'>
