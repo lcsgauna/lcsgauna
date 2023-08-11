@@ -3,7 +3,7 @@
   </head>
   <body>
   <h1 aling="center">Bem vindo🤠</h1>
-  <p>Olá, me chamo Lucas tenho 28 anos moro em Campo Grande/MS sou bacharel de Ciência da Computação na Estácio de Sá MS e atualmente trabalho como desenvolvedor fullstack júnior utilizando a stack <span class='react'>React</span> e <span class='node'>Node</span> </p>
+  <p>Olá, me chamo Lucas tenho 28 anos moro em Campo Grande/MS sou bacharel em Ciência da Computação na Estácio de Sá MS e atualmente trabalho como desenvolvedor fullstack júnior utilizando a stack <span class='react'>React</span> e <span class='node'>Node</span> </p>
   <h2>Stack</h2>
   <div class='stacks'>
     <a class='logo' href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a class='logo'>
