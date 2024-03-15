@@ -5,12 +5,10 @@
   <h1 aling="center">Bem vindo🤠</h1>
   <p>Olá, me chamo Lucas tenho 29 anos moro em Campo Grande MS sou bacharel em Ciência da Computação pela faculdade Estácio de Sá, pós graduando em UX Engineering na PUC Minas. Atualmente trabalho como desenvolvedor fullstack utilizando a stack React e Node js</p>
   <br/>
-    <div>
-      <figure align="center">
+      <figure>
         <img src="./assets//img/jacare.jpg" alt="Um jacaré de óculos escuros dentro de um carro vermelho e com uma praia ao fundo da imagem"/>
         <figcaption>Meta como desenvolvedor 😎</figcaption>
-      </figure>
-    </div>
+      </figure> 
   <br/>
   <h2>Stack</h2>
   <div class='stacks'>
