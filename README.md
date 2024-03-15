@@ -22,8 +22,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Python language logo" width="40" height="40"></a class='logo'>
     <a class='logo' href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a class='logo'> 
     <a class='logo' href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a class='logo'>
-    <a class='logo' href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg
-" alt="flask framework logo" width="45" height="45"/></a class='logo'>
 </div>
  <h2>Ferramentas</h2>
   <div class='dev-tools'> 
