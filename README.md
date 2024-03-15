@@ -7,7 +7,7 @@
   <br/>
       <figure align="center">
         <img src="./assets//img/jacare.jpg" alt="Um jacaré de óculos escuros dentro de um carro vermelho e com uma praia ao fundo da imagem"/>
-        <figcaption align="center">Meta como desenvolvedor 😎</figcaption>
+        <figcaption>Meta como desenvolvedor 😎</figcaption>
       </figure>
   <br/>
   <h2>Stack</h2>
