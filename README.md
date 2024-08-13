@@ -2,20 +2,20 @@
 
 ```json
 {
-"Bio" : [ "he/him", "Brazilian", "PT-BR", "EN-US"],
-"Stack": ["Node.js", "React","NextJS" ,"Javascript", "Typescript", "Express", "Fastify", "Postgres" , "Sqlite", "Docker" ],
-"Learning": ["Golang"],
-"OS": [
-      {
-	  "Linux": "Zorin OS",
-	  "Windows": "11 PRO"
-      }
-],
-"Social" : [
-{
-    "Linkedin" :"in/lcsgauna"
-}
-]
+	"Bio" : [ "he/him", "Brazilian", "PT-BR", "EN-US"],
+	"Stack": ["Node.js", "React","NextJS" ,"Javascript", "Typescript", "Express", "Fastify", "Postgres" , "Sqlite", "Docker" ],
+	"Learning": ["Golang"],
+	"OS": [
+		{
+		  "Linux": "Zorin OS",
+		  "Windows": "11 PRO"
+		}
+	],
+	"Social" : [
+		{
+		    "Linkedin" :"in/lcsgauna"
+		}
+	]
 }
 ```
 <!--
