@@ -1,6 +1,6 @@
 ## Hi there 🤠
 
-```json
+```jsonp
 {
 	  "Bio" : [ "he/him", "Brazilian", "PT-BR", "EN-US"],
     "Stack": ["Node.js", "React","NextJS" ,"Javascript", "Typescript", "Express", "Fastify", "Postgres" , "Sqlite", "Docker" ],
