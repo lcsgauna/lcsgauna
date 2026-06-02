@@ -2,12 +2,13 @@
 
 ```json
 {
-	"Bio" : [ "he/him", "Brazilian", "PT-BR", "EN-US"],
-	"Stack": ["Node.js", "React","NextJS" ,"Javascript", "Typescript", "Express", "Fastify", "Postgres" , "Sqlite", "Docker" ],
+	"Bio" : [ "he/him", "PT-BR", "EN-US"],
+	"Stack": ["Node.js", "React", "Next.js" , "Javascript", "Typescript", "Express", "Fastify", "Nest.js", "Electron",
+			 "Postgres" , "MySQL", "Sqlite", "Docker", "Tailwind CSS", "Sass Module"],
 	"Learning": ["Golang"],
 	"OS": [
 		{
-		  "Linux": "Zorin OS",
+		  "Linux": ["Zorin OS", "Ubuntu"],
 		  "Windows": "11 PRO"
 		}
 	],
@@ -18,17 +19,3 @@
 	]
 }
 ```
-<!--
-**lcsgauna/lcsgauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
