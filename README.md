@@ -2,20 +2,26 @@
 
 ```json
 {
-	"Bio" : [ "he/him", "PT-BR", "EN-US"],
-	"Stack": ["Node.js", "React", "Next.js" , "Javascript", "Typescript", "Express", "Fastify", "Nest.js", "Electron",
-			 "Postgres" , "MySQL", "Sqlite", "Docker", "Tailwind CSS", "Sass Module"],
-	"Learning": ["Golang"],
-	"OS": [
-		{
-		  "Linux": ["Zorin OS", "Ubuntu"],
-		  "Windows": "11 PRO"
-		}
-	],
-	"Social" : [
-		{
-		    "Linkedin" :"in/lcsgauna"
-		}
-	]
+  "bio": ["he/him", "PT-BR"],
+  "work": {
+    "position": "Fullstack Developer",
+    "degree": "Computer Science at Estácio",
+    "stack": {
+      "languages": ["Javascript", "Typescript", "Golang"],
+      "backend": ["Node.js", "Express", "Fastify", "Nest.js"],
+      "frontend": ["React", "Next.js", "Electron", "Tailwind CSS", "Sass Module"],
+      "databases": ["Postgres", "MySQL", "Redis", "Sqlite"],
+      "tools": ["Docker", "Shell script"]
+    }
+  },
+ "learning": ["Rust"],
+  "os": {
+    "linux": ["Zorin", "Ubuntu"],
+    "windows": ["11 PRO"]
+  },
+  "social": {
+    "linkedin": "in/lcsgauna"
+  }
 }
+
 ```
