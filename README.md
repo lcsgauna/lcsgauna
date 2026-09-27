@@ -3,9 +3,9 @@
 ```json
 {
   "bio": ["he/him", "PT-BR"],
+  "degree": "Computer Science at Estácio",
   "work": {
     "position": "Fullstack Developer",
-    "degree": "Computer Science at Estácio",
     "stack": {
       "languages": ["Javascript", "Typescript", "Golang"],
       "backend": ["Node.js", "Express", "Fastify", "Nest.js"],
